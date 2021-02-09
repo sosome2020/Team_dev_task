@@ -216,7 +216,6 @@ en:
   views:
     messages:
       failed_to_transfer_authority: 'Failed To Transfer Auhtority'
-      transfer_authority: 'Transfer Auhtority'
       only_team_owner: 'Only the theam owner can perform that'
       enter_proper_user: 'The user you entered doesnt exist'
       create_agenda: 'Successfully created an agenda!'
@@ -268,6 +267,7 @@ en:
       team_you_belong_to: 'The team you belong to'
       posted_articles: 'List of posted articles'
     button:
+      transfer_authority: 'Transfer Auhtority'
       submit: 'Submit'
       edit: 'Edit'
       delete: 'Delete'

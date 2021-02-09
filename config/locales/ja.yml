@@ -256,8 +256,9 @@ ja:
       team_you_belong_to: '所属しているチーム'
       posted_articles: '投稿した記事一覧'
       failed_to_transfer_authority : ' Could not transfer authority '
-      transfer_authority : ' delegation of authority '
+
     button:
+      transfer_authority : ' delegation of authority '
       submit: '投稿'
       edit: '編集'
       delete: '削除'
